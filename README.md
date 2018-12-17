@@ -1,9 +1,9 @@
-# Music Meta Fetcher
+# :musical_score: Music Meta Fetcher
 
 This is a gripe of mine, the ability to extract my favorites out of music
 services. Useful both as a record of my habits, that should remain property of
 myself and not the music service I rent music from, and also for pushing back
-the favorites to another music service when swiching.
+the favorites to another music service when switching.
 
 ## Current status
 
